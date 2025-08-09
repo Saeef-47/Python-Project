@@ -1,0 +1,19 @@
+# Calculator App using Tkinter
+
+This is a basic calculator application built with Python’s Tkinter library. It features a simple graphical user interface (GUI) that supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+## How to Run
+
+Make sure Python 3 is installed on your system. Then run the calculator script from your terminal or command prompt:
+
+
+## Features
+
+- User-friendly GUI with buttons for digits and operations  
+- Supports addition, subtraction, multiplication, and division  
+- Clear (C) button to reset the input  
+- Displays current input and calculation result  
+
+## Screenshot
+
+![Calculator Screenshot](screenshots/calculator.png)  
