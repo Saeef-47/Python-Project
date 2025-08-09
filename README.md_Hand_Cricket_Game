@@ -1,0 +1,23 @@
+# Hand Cricket Game in Python
+
+This is a command-line Hand Cricket game implemented in Python. Two players take turns batting and bowling by choosing numbers. The game simulates the classic hand cricket rules where if both players choose the same number, the batsman is out.
+
+## How to Run
+
+Ensure Python 3 is installed. Run the script from your terminal or command prompt:
+
+
+## Gameplay Overview
+
+- Player 1 bats while Player 2 bowls (and vice versa).  
+- Each player inputs a number between 1 and 6 on their turn.  
+- If the numbers match, the batsman is out and the innings switch.  
+- Scores are tracked and displayed after each ball.  
+- The player with the higher score wins the game.
+
+## Features
+
+- Two-player interactive gameplay  
+- Input validation for numbers between 1 and 6  
+- Real-time score updates and innings switch  
+- Clear command-line interface  
