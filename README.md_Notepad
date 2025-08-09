@@ -1,0 +1,20 @@
+# Notepad App using Tkinter
+
+This is a basic Notepad application built with Python’s Tkinter library. It offers a simple text editor interface with features to create, open, edit, and save text files.
+
+## How to Run
+
+Make sure Python 3 is installed on your system. Run the script from your terminal or command prompt:
+
+
+## Features
+
+- Create new text files  
+- Open and edit existing text files  
+- Save files with overwrite or save as options  
+- Simple and clean GUI using Tkinter  
+- Basic text editing functionalities like cut, copy, and paste  
+
+## Screenshot
+
+![Notepad Screenshot](screenshots/notepad.png)  
