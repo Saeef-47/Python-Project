@@ -14,7 +14,3 @@ Make sure Python 3 is installed on your system. Run the script from your termina
 - Save files with overwrite or save as options  
 - Simple and clean GUI using Tkinter  
 - Basic text editing functionalities like cut, copy, and paste  
-
-## Screenshot
-
-![Notepad Screenshot](screenshots/notepad.png)  
